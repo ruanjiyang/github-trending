@@ -13,3 +13,103 @@ https://github.com/KuangDD/zhrtvc  中文版本的real time voice clone 克隆�
 https://github.com/alievk/avatarify  实时视频中换头像，非常牛。
 
 https://github.com/alievk/first-order-model  这个是上述换头像库所引用的另外一个库，似乎是给任意一张图片加上本人的动作，也很牛。
+
+https://cuijiahua.com/   一个好网站，有各类github项目的介绍！！ 其中 程序员欢乐颂是最好的。 https://cuijiahua.com/blog/life/
+
+最好的换脸。https://github.com/clovaai/stargan-v2
+
+https://github.com/giddyyupp/ganilla     GANILLA 是一个风格迁移算法，可以将一副自然图片变成“宫崎骏”画风的漫画。
+
+https://github.com/alievk/avatarify  视频会议中换脸
+
+
+3D 场景渲染算法，一张照片渲染出一个3D场景。https://github.com/vt-vl-lab/3d-photo-inpainting
+
+
+图像修复领域的王者DeepFill v2   https://github.com/JiahuiYu/generative_inpainting
+
+
+https://github.com/tamarott/SinGAN  从一张图片中生成宽幅照片，SinGAN将GAN带入了一个新领域，从单幅自然图像中学习非条件生成模型，它能够捕捉图像的内部块分布信息，生成具有相同视觉内容的高质量、多变的样本。
+
+https://github.com/senguptaumd/Background-Matting。  视频换背景！陈士明要的！
+
+ConSinGAN 是去年谷歌提出的 SinGAN 的改进版，是一种基于单张图片的图像生成模型，并将其应用到多个方向，包括图像随机生成，图像融合、图像动画、图像去雾、图像编辑以及图像超分重建等。  https://github.com/tohinz/ConSinGAN
+
+视频插帧算法 DAIN插帧算法  https://github.com/baowenbo/DAIN
+
+PyMatting  Ai抠图算法。https://github.com/pymatting/pymatting
+
+Pytorch 3D。https://github.com/facebookresearch/pytorch3d
+
+https://github.com/jindongwang/transferlearning  迁移算法大全！！ 学习资料！
+
+FFmpeg有非常强大的功能包括：视频采集、视频格式转化、视频截图、视频添加水印、视频切片(m3u8、ts)、视频录制、视频推流、更改音视频参数（编码方式、分辨率、码率、比特率等）功能，等等。    https://github.com/kkroening/ffmpeg-python
+
+https://github.com/Yuheng-Li/MixNMatch   4合1 图像！！MixNMatch 是条件图像生成算法，可以通过多维度的特征，进行图片生成。
+
+
+https://github.com/idealo/image-quality-assessment  给照片评分
+
+
+https://github.com/streamlit/streamlit/。Streamlit是一款专为机器学习工程师创建的免费、开源Web App构建框架，可以帮助你在写Python 代码的时候，实时更新你的Web应用。
+
+Facial Details Synthesis 是一个基于单幅图像的真实人脸细节合成算法，通过单张图像就可以合成 3D 人脸。 https://github.com/apchenstu/Facial_Details_Synthesis
+
+
+https://github.com/lllyasviel/style2paints 人工智能一笔一笔给线稿上色。
+
+视频图像修复，把标记出来的物体从视频中去掉。  https://github.com/nbei/Deep-Flow-Guided-Video-Inpainting
+
+https://github.com/vincent-thevenin/Realistic-Neural-Talking-Head-Models 从一张人像图生成动图
+
+https://github.com/iperov/DeepFaceLab 好像很牛B的一个换脸
+
+这是一个有趣的GAN项目。根据一段音频和一个人物静态图，可以生成一个嘴型可以对上这段音频的人物说话视频。 https://github.com/DinoMan/speech-driven-animation
+
+高帧率视频生成Super SloMo
+Adobe深度抠图
+EdgeConnect图像修复，先修复线条，再来填色。比较神奇 https://github.com/knazeri/edge-connect
+手机图像质量提升。https://github.com/aiff22/DPED
+4、GauGAN  涂鸦变照片
+
+Deep Painterly Harmonization 可以将一幅图像毫无违和感地嵌入另一幅图像当中。该算法经过两个步骤，可以将物体和人完美(或近乎完美)地嵌入画作中，且与艺术家的风格完全匹配。  https://github.com/luanfujun/deep-painterly-harmonization
+
+ 
+https://ebsynth.com/  Adobe又逆天！13.5M软件就能把《长安十二时辰》变成水墨动画  https://www.ithome.com/0/433/459.htm
+
+https://goart.fotor.com/  人工智能处理图像的网站。
+
+Super-SloMo 高帧率视频生成
+https://github.com/avinashpaliwal/Super-SloMo
+
+
+https://topazlabs.com/  这个网站是卖ai处理图形的软件的，极其牛B！！
+https://github.com/ruanjiyang/reproducible-image-denoising-state-of-the-art  降噪
+Topaz JPEG to RAW AI链接：https://pan.baidu.com/s/1657tWukMiq3SvcJ8Pm08zA 提取码：wz15
+人工智能抠图软件下载链接：https://pan.baidu.com/s/13h8te3u-UHj4DDQkIIjXRQ
+提取码：by58
+人工智能调色链接：https://pan.baidu.com/s/1xar9KI5BE8AS9FN5rhK23A
+提取码：u6bb
+人工智能锐化软件链接：https://pan.baidu.com/s/12e8Kt1GyeL6xipb1GvZIHQ
+提取码：3nyu
+人工智能放大软件链接：https://pan.baidu.com/s/1IsbTSdE8irT3wf4Op03OLw
+提取码：mo70
+人工智能降噪软件链接：https://pan.baidu.com/s/1kJM9GpA9A23l191rC2ECNg 提取码：fiv4
+解压密码：xxc369334667
+
+ecrett music。 ai给视频配乐！
+
+https://github.com/run-youngjoo/SC-FEGAN。脸部编辑！！牛。
+
+https://github.com/Zulko/moviepy。python处理视频的库
+
+FX Cartoonizer， 图像转卡通。
+
+Prima Cartoonizer 1.1.1绝对强悍首发图像转卡通素描效果    
+
+https://github.com/suifengqjn/videoWater   批量伪原创视频剪辑器  https://mediablog.github.io/
+
+https://github.com/thunil/TecoGAN 放大视频/video super resolution
+
+Musenet 人工智能作曲
+
