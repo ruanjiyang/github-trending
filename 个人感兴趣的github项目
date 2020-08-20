@@ -161,3 +161,5 @@ https://github.com/NVlabs/stylegan2  自动生成人像，使用说明在这http
 https://github.com/a312863063/generators-with-stylegan2 基于StyleGAN2的新版人脸生成器
 
 https://github.com/NVlabs/selfsupervised-denoising  Nvidia的降噪
+
+https://github.com/ruanjiyang/awesome-pretrained-stylegan2  预训练好的一些stylegan2的模型。
