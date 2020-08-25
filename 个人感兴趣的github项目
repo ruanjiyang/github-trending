@@ -163,3 +163,5 @@ https://github.com/a312863063/generators-with-stylegan2 基于StyleGAN2的新版
 https://github.com/NVlabs/selfsupervised-denoising  Nvidia的降噪
 
 https://github.com/ruanjiyang/awesome-pretrained-stylegan2  预训练好的一些stylegan2的模型。
+
+https://github.com/podgorskiy/ALAE 基于自编码器的人脸编辑，GUI挺漂亮，不过不是基于web
