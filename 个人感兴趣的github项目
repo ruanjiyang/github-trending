@@ -165,3 +165,8 @@ https://github.com/NVlabs/selfsupervised-denoising  Nvidia的降噪
 https://github.com/ruanjiyang/awesome-pretrained-stylegan2  预训练好的一些stylegan2的模型。
 
 https://github.com/podgorskiy/ALAE 基于自编码器的人脸编辑，GUI挺漂亮，不过不是基于web
+
+五个在线图像编辑：
+1）befunky。2）Fotor。3）Pixlr x。4）iPiccy 5）adobe photoshop express editor. 6)polarr. 7)ribbet 8)photopea. 9)google photo
+
+http://docs.photoeditorsdk.com/   python的在线图像编辑，一定要试试看。似乎是要花钱的。
