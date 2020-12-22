@@ -1,11 +1,13 @@
+https://github.com/pietrocarbo/deep-transfer  这个似乎有点牛，要测试看看
+
 公认的计算机视觉三大会议分别为ICCV,ECCV,CVPR
 
 https://github.com/vijishmadhavan/ArtLine   照片变成简笔画
 
-https://github.com/aigagror/discriminator-style-transfer.  一共全新的非常好的 style transfer， 一定要试试看！--》https://www.youtube.com/watch?v=OJpXr3GQyHY&t=40s
+https://github.com/aigagror/discriminator-style-transfer.  一共全新的非常好的 style transfer， 一定要试试看！--》https://www.youtube.com/watch?v=OJpXr3GQyHY&t=40s  #测试了发现很一般
 
-https://pystiche.readthedocs.io/en/latest/getting_started/installation.html  # pystiche 风格迁移框架
-https://github.com/pmeier/pystiche
+https://pystiche.readthedocs.io/en/latest/getting_started/installation.html  # pystiche 风格迁移框架  #测试了发现很一般
+https://github.com/pmeier/pystiche  #测试了发现很一般
 
 
 https://github.com/ruanjiyang/deep_image  似乎有点牛的风格迁徙
