@@ -1,3 +1,5 @@
+https://awesomeopensource.com/  一些开源代码的大集合
+
 https://github.com/cysmith/neural-style-tf  4年前的一个 tensorflow的 风格迁移，看paper觉得效果很好。但是可能速度会不够块。试试看吧
 
 https://github.com/JulianJuaner/PortraitST 人脸的风格迁徙，一定要测试下，难道找到了？ --测试过了， 最主要的问题是，生成的图上会存在风格图的一些鬼影。
