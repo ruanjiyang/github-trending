@@ -1,3 +1,7 @@
+
+https://github.com/clovaai/tunit img2img
+https://github.com/taesungp/contrastive-unpaired-translation. img2img，这是cyclegan推荐的，应该极其牛！
+
 https://github.com/cysmith/neural-style-tf  4年前经典的风格迁移，效果非常好，可以测试下。
 https://github.com/zhijieW94/ETNet 2019年的 style transfer，号称干掉了wct，adain。一定要测试下。 运行不起来阿。
 https://github.com/nightldj/behance_release  似乎对脸部的风格迁移表现特别好的。要测试下！居然是python 2.x的。。。。
