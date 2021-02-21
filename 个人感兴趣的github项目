@@ -1,6 +1,9 @@
 https://github.com/fei-hdu/sRender 素描肖像，看上去效果不错！！
 https://github.com/HideUnderBush/UI2I_via_StyleGAN2  基于stylegan2的 img2img，看上去不错，可能是我需要的！看描述，1024X1024的图片需要1分钟时间来生成。。
 https://github.com/edward3862/carime 人脸卡通画
+https://github.com/linjx-ustc1106/TuiGAN-PyTorch.  今晚测试 。单张图片的img2img
+
+
 
 https://github.com/ManthanBhala/Style-Transfer-by-Rigid-Alignment 这个看效果似乎非常牛，值得尝试。
 
@@ -28,7 +31,7 @@ https://portraitai.app/
 https://github.com/EndlessSora/TSIT
 https://github.com/Ha0Tang/AttentionGAN
 https://github.com/aigagror/discriminator-style-transfer
-https://github.com/linjx-ustc1106/TuiGAN-PyTorch.  今晚测试 。单张图片的img2img
+
 https://github.com/Onr/Council-GAN
 coco-funit
 https://github.com/clovaai/tunit img2img
