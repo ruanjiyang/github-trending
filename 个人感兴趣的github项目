@@ -1,5 +1,6 @@
 2021-3-11:
 https://github.com/chaofengc/Face-SPARNet  人脸超分辨率
+https://github.com/deepfakes/faceswap  换脸
 
 
 https://github.com/eezkni/UEGAN  图像色彩增强  （没有 pre-trained model，只能自己训练）
