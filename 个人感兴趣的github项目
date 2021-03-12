@@ -2,6 +2,7 @@
 https://github.com/chaofengc/Face-SPARNet  人脸超分辨率
 https://github.com/deepfakes/faceswap  换脸，带GUI
 https://reflect.tech/faceswap/my 在线换脸的网站。
+faceshifter
 
 
 https://github.com/eezkni/UEGAN  图像色彩增强  （没有 pre-trained model，只能自己训练）
