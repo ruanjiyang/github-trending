@@ -2,7 +2,7 @@ https://github.com/D1noFuzi/cmd_styletransfer。CVPR '21的风格迁移
 
 https://github.com/thesouthfrog/stylealign  2019年，人脸风格迁移，是基于脸部mark来实现迁移的，可能有用，下周测试看看。
 
-https://github.com/sangwoomo/instagan   2019年的img2img,基于cyclegan
+https://github.com/sangwoomo/instagan   2019年的img2img,基于cyclegan, 训练的图像似乎是不需要分域的
 
 https://github.com/summerice9/AniGAN. 人脸转漫画，看上去效果很好。还没有开源。
 https://github.com/SystemErrorWang/White-box-Cartoonization. 差不多一年前的图片卡通化，效果感觉还可以的。
