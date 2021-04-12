@@ -1,3 +1,5 @@
+https://github.com/rosinality/swapping-autoencoder-pytorch  似乎是一个很牛B的 fast风格迁移，有点类似于nvidia的fast photostyle
+
 ==================  ONNX / TensorRT ===============
 https://github.com/onnx/tensorflow-onnx   TF转 ONNX
 
