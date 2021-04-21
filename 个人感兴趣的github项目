@@ -1,3 +1,5 @@
+https://github.com/GuillaumeAI/rwml__adaptive_style_transfer  2018年的论文，半年前开源（2020-6），第一眼看上去很牛。 website内容很丰富，测试看看。
+
 https://github.com/rosinality/swapping-autoencoder-pytorch  似乎是一个很牛B的 fast风格迁移，有点类似于nvidia的fast photostyle
 https://github.com/taesungp/swapping-autoencoder-pytorch. 这个才是官方的版本！！
 
