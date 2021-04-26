@@ -1,3 +1,5 @@
+https://github.com/weihaox/awesome-image-translation#year-2021  image translation 的大集合
+
 https://github.com/CompVis/brushstroke-parameterized-style-transfer  CVPR 2021的style transfer，风格迁移，还没开源，看论文的出图效果很好。 注意，CompVis有多个风格迁移的代码，多多关注他。
 https://github.com/CompVis/content-style-disentangled-ST/tree/dev_subm_1 这个也是CompVis的风格迁移，代码开源，但是没有训练好的模型，需要自己训练。有很多视频展示。
 
