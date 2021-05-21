@@ -1,5 +1,5 @@
 https://github.com/yuval-alaluf/restyle-encoder  这个是stylegan2的最新版本的inversion，可能比psp还强。还没有测试。
-https://arxiv.org/pdf/2105.06086.pdf 照片划痕修复，去抖动，降噪。
+https://github.com/megvii-model/HINet 照片划痕修复，去抖动，降噪。
 
 https://github.com/Aaditya-Singh/SAFIN  ICME 2021的 style transfer, 需要pytorch==1.2，现在没法测试。
 https://github.com/galatolofederico/clip-glass  从text生成image， 基于stylegan2
